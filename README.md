@@ -12,15 +12,6 @@ This repo serves as a resource for any developer curious about [state machines](
 ## Current Examples
 - Trivia Game [React](/trivia-game-react) | [Vue](/trivia-game-vue) | [Svelte](/trivia-game-svelte)
 
-## Future Examples
-- React Native "Simon Says" game
-- Authentication flow
-- Welcome/walkthrough flow
-- Todos
-- Ticket selection and payment flow
-- Stepped form/wizard
-- Medium-like article creation/updating 
-
 ## Examples Showing Specific State Machine Concepts
 - [Guards](https://xstate.js.org/docs/guides/guards.html): Trivia Game [React](/trivia-game-react/src/machine.ts#L47) | [Vue](/trivia-game-vue/src/machine.js#L46) | [Svelte](/trivia-game-svelte/src/machine.js#L46)
 - [Transient Transitions](https://xstate.js.org/docs/guides/transitions.html#transient-transitions): Trivia Game [React](/trivia-game-react/src/machine.ts#L44-L48) | [Vue](/trivia-game-vue/src/machine.js#L43-L47) | [Svelte](/trivia-game-svelte/src/machine.js#L43-L47)
